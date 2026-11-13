@@ -1,4 +1,4 @@
-﻿# 🎤 台灣 KTV 推薦指南
+# 🎤 台灣 KTV 推薦指南
 
 > 全台KTV推薦 + 叫傳播完整攻略
 
@@ -20,9 +20,9 @@
 透過合法傳播公司預約專業陪伴服務，讓 KTV 歡唱更加精彩。
 
 ### 推薦服務
-- [歐巴傳播](https://obaoba0808.github.io/FH/) — 台南/高雄專業傳播
-- [KTV歡唱全攻略](https://obaoba0808.github.io/FH/KTV_party.html)
-- [一對一服務](https://obaoba0808.github.io/FH/one_by_one.html)
+- [歐巴傳播](https://obaoba.online/) — 台南/高雄專業傳播
+- [KTV歡唱全攻略](https://obaoba.online/KTV_party.html)
+- [一對一服務](https://obaoba.online/one_by_one.html)
 - LINE: @938nzmjr | 電話: 0926-656666
 
 ## 🔗 更多資源
@@ -31,4 +31,4 @@
 
 ---
 
-*由 [歐巴傳播](https://obaoba0808.github.io/FH/) 維護*
+*由 [歐巴傳播](https://obaoba.online/) 維護*
