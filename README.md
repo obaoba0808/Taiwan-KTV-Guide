@@ -31,4 +31,4 @@
 
 ---
 
-*由 [歐巴傳播](https://obaoba.online/) 維護*
+*台灣 KTV 推薦指南*
